@@ -2,7 +2,7 @@ Hello, I'm Brás, a computer science student from Brazil.
 
 ## Skills
 
-### Languages
+### Programming languages
 
 Every category lists languages from most proficient to least proficient.
 
@@ -30,6 +30,13 @@ Languages I can write something in, but I don't consider myself very good with.
 * IntelliJ;
 * Git and GitHub;
 * Linux.
+
+### Natural languages
+
+Natural languages that I speak at a competent level.
+* Portuguese (native);
+* English (advanced).
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brasb&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brasb&langs_count=10&theme=tokyonight)]()
