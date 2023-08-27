@@ -22,6 +22,7 @@ Languages I can write something in, but I don't consider myself very good with.
 * HTML;
 * JavaScript;
 * CSS;
+* Python;
 * Bash;
 * Brainf\*\*k (a minimalist esoteric programming language I learned for fun).
 
