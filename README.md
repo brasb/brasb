@@ -30,7 +30,8 @@ Languages I can write something in, but I don't consider myself very good with.
 * VSCode;
 * IntelliJ;
 * Git and GitHub;
-* Linux.
+* Linux;
+* PostgresSQL (basic level).
 
 ### Natural languages
 
