@@ -20,11 +20,8 @@ Languages I can write something in, but I don't consider myself very good with.
 * Lua;
 * Java;
 * HTML;
-* JavaScript;
 * CSS;
-* Python;
-* Bash;
-* Brainf\*\*k (a minimalist esoteric programming language I learned for fun).
+* Python.
 
 ### Technologies
 * VSCode;
