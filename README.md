@@ -2,33 +2,18 @@ Hello, I'm Brás, a computer science student from Brazil.
 
 ## Skills
 
-### Programming languages
+### Technologies
 
-Every category lists languages from most proficient to least proficient.
+These are some of the technologies that I know.
 
-#### I Know
-
-I generally consider that I "know" a language when I either have completed a significant project with it, or at least written at few thousand lines of code.
 * C#;
 * C;
-* GDScript.
-
-#### I am Familiar
-
-Languages I can write something in, but I don't consider myself very good with.
-* Nim;
-* Lua;
-* Java;
-* HTML;
-* CSS;
-* Python.
-
-### Technologies
+* Linux;
+* PostgresSQL (at a basic level);
 * VSCode;
 * IntelliJ;
 * Git and GitHub;
-* Linux;
-* PostgresSQL (basic level).
+* Lua.
 
 ### Natural languages
 
